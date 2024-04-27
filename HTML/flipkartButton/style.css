@@ -1,0 +1,42 @@
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 10px;
+}
+
+
+.toCart{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ff9f00;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 18px 8px;
+    border-radius: 2px;
+    width: 220px;
+    border: none;
+    gap: 10px;
+
+
+}
+.buyNow{
+    background: #FB641B;
+    color: #fff;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 18px 8px;
+    border-radius: 2px;
+    width: 220px;
+    border: none;
+    gap: 10px;
+
+}
