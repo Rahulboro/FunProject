@@ -1,0 +1,50 @@
+*{
+    background:#fff;
+    font-family: Montserrat;
+    font-weight: 500;
+}
+.container{
+    padding-top: 15px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-search, .nav-login, .nav-cart, .nav-become-seller, .notification-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.search-icon{
+    position: relative ;
+    top: 4px; left: 40px;
+    background: #F0F5FF;
+}
+.search-icon svg{
+    background: transparent;
+}
+#search-id{
+    padding-left: 45px;
+    width: 650px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    background: #F0F5FF;
+    font-family: Montserrat;
+    font-size: 17px;
+}
+/* nav login styling  */
+
+.nav-login {
+    gap: 10px;
+}
+
+/* this is cart styling  */
+.nav-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
