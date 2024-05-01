@@ -78,7 +78,7 @@ nav{
     }
   }
   @media screen and (max-width: 750px) {
-    .nav-become-seller, .nav-search, .notification-button, .large-logo-image {
+    .nav-become-seller, .nav-search, .notification-button, .large-logo-image, .arrow-down {
         display: none;
 
     }
@@ -98,5 +98,6 @@ nav{
 
     }
   }
-  
+    
+
 
