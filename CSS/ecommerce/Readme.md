@@ -13,10 +13,16 @@ This project is a responsive ecommerce product collection section page that adap
 
 ## Technologies Used
 
+
+
+
 - HTML5: Markup language for structuring the page content.
 - CSS3: Styling language for enhancing the visual appearance and layout.
 - flexbox: for responsiveness
 - FontAwesome: For adding font family to the page.
+
+# Demo
+![Demo](https://github.com/Rahulboro/FunProject/assets/43513755/2787cba7-88e7-4d3f-9cf3-7ad5c420f84e)
 
 ## Installation
 
