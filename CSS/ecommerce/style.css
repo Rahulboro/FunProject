@@ -1,0 +1,40 @@
+*{
+    background: #fff;
+    font-family: montserrat;
+}
+h1, h2{
+    margin: 0;
+    padding-left: 15px;
+
+}
+.container{
+    padding: 20px;
+}
+.products{    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    height: 500px;
+}
+.product h1{
+    font-weight: 100;
+}
+.product-image{
+    width: 350px;
+    border-radius: 2em;
+}
+.price{
+    display: flex;
+    gap: 20px;
+    padding-left: 15px;
+}
+.old-price{
+    text-decoration: line-through;
+}
